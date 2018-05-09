@@ -1,0 +1,5 @@
+suites:
+    main:
+        namespace: ControlInventario
+        psr4_prefix: ControlInventario
+        src_path: app
